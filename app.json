@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "mshare",
-    "slug": "mshare",
+    "name": "expo",
+    "slug": "expo",
     "privacy": "public",
     "sdkVersion": "35.0.0",
     "platforms": [
